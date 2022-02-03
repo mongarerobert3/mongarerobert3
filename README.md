@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mong'are Robert
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @courtewampedsoftwares@gmail.com
+- 👀 I’m a software engineer and web developer.
+- 🌱 I’m a student at KCA University, Kenya
+- 💞️ Hit me up for cool website design and for projects @mongarerobert3@gmail.com
+- 📫 Instagram @_baby.shiesty_
 
 <!---
 mongarerobert3/mongarerobert3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
