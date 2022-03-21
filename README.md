@@ -4,6 +4,7 @@
 - 💞️ Hit me up for cool website design and for projects @mongarerobert3@gmail.com
 - 📫 Instagram @_baby.shiesty_
 - https://www.buymeacoffee.com/mongarerobs 
+- https://linktr.ee/mongarer
 
 
 <!---
