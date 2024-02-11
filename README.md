@@ -33,7 +33,7 @@
 - 👀 I do network architectures and designs for fun.
 - 💞️ Hit me up for cool website design and for amazing projects @mongarerobert3@gmail.com
 - 📫 Instagram @ki_mbokte
-- https://robertmongare.live/
+- https://robertmongare.vercel.app/
 - https://www.buymeacoffee.com/mongarerobs 
 - https://linktr.ee/mongarer
 
