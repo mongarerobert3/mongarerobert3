@@ -28,8 +28,6 @@
 - :zap: In my free time, I solve problems on leet code and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mong-are-553162210/)
-
-- 👋 Hi, I’m Mong'are Robert
 - 👀 I do designs for fun. Graphics e.t.c
 - 💞️ Hit me up for cool website design and for amazing projects @mongarerobert3@gmail.com
 - 📫 Instagram @ki_mbokte
