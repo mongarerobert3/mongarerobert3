@@ -21,16 +21,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m a DevOps engineer and a Software Engineer contributing to frontend and backend for building applications.
+- :telescope: I’m a DevOps & Full Stack SWE.
 
-- :seedling: I’m a student at KCA University, Kenya.
+- :seedling: proud alumni @KCA University.
 
 - :zap: In my free time, I solve problems on leet code and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mong-are-553162210/)
 
 - 👋 Hi, I’m Mong'are Robert
-- 👀 I do network architectures and designs for fun.
+- 👀 I do designs for fun. Graphics e.t.c
 - 💞️ Hit me up for cool website design and for amazing projects @mongarerobert3@gmail.com
 - 📫 Instagram @ki_mbokte
 - https://robertmongare.vercel.app/
