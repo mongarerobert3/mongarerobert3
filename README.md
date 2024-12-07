@@ -23,7 +23,7 @@
 
 - :telescope: DevOps @Courte Labs.
 
-- :seedling: proud alumni @KCA University.
+- :seedling: Bachelor of Science Information Technology @KCA University.
 
 - :zap: In my free time, I solve problems on leet code and read tech articles.
 
