@@ -21,15 +21,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: DevOps @Courte Labs.
+🚀 DevOps || Full-Stack Software Engineer
 
-- :seedling: Bachelor of Science Information Technology @KCA University.
+🔹 What I Do:
 
-- :zap: In my free time, I solve problems on leet code and read tech articles.
+- DevOps: CI/CD, Cloud Infrastructure, Automation
+- Full-Stack Development: Scalable Web Apps, APIs, Microservices
 
 - :mailbox:Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mong-are-553162210/)
 - 👀 I do designs for fun. Graphics e.t.c
-- 💞️ DevOps: CI/CD, Cloud Infrastructure, Automation
+- 💞️ 
 - 📫 Full-Stack Development: Scalable Web Apps, APIs, Microservices
 - https://robertmongare.vercel.app/
 - https://www.buymeacoffee.com/mongarerobs 
