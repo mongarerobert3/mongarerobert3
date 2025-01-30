@@ -28,8 +28,9 @@
 - DevOps: CI/CD, Cloud Infrastructure, Automation
 - Full-Stack Development: Scalable Web Apps, APIs, Microservices
 <hr>
-- :mailbox:Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mong-are-553162210/)
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mong-are-553162210/)
+  
 - https://robertmongare.vercel.app/
 - https://www.buymeacoffee.com/mongarerobs 
 - https://linktr.ee/mongarer
